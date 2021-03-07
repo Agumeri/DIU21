@@ -16,7 +16,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   Agustín Mérida Gutiérrez     :octocat:     
- * :bust_in_silhouette:  Jorge Zamudio Gutiérrez     :octocat:
+ * :bust_in_silhouette:  Jorge Zamudio Gutiérrez     :octocat:  jorgezg0103
 
 ----- 
 
