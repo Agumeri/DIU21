@@ -44,6 +44,9 @@ La primera persona que hemos seleccionado es Matias Gómez, un hombre que adora 
 Su ficha es la siguiente:
 ![MatiasGomez](P1/MatiasGomez.png)
 
+La segunda persona es Juan, un hombre jubilado que ama la naturaleza y nunca ha salido de su pueblo. Hemos escogido a esta persona para estudiar la interacción que tendría un hombre mayor que no entiende apenas nada de nuevas tecnologías y que nunca ha viajado. 
+![Juan](P1/Juan.png)
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
