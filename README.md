@@ -15,7 +15,7 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Agustín Mérida Gutiérrez     :octocat:     
+ * :bust_in_silhouette:   Agustín Mérida Gutiérrez     :octocat:  Agumeri 
  * :bust_in_silhouette:  Jorge Zamudio Gutiérrez     :octocat:  jorgezg0103
 
 ----- 
@@ -39,11 +39,17 @@ Miembros
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+La primera persona que hemos seleccionado es Matias Gómez, un hombre que adora hacer turismo por cualquier rincón que no haya visitado. Nos ha parecido interesante ya que queríamos tener a alguien que adore viajar y hacer turismo, sin importar el lugar. 
+
+Su ficha es la siguiente:
+![MatiasGomez](P1/MatiasGomez.png)
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
