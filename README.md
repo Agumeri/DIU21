@@ -34,6 +34,9 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
+La tabla que hemos realizado para realizar el análisis competitivo es la siguiente: 
+![tablaCompt](P1/tablaCompetitividad.png)
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 La primera persona que hemos seleccionado es Matias Gómez, un hombre que adora hacer turismo por cualquier rincón que no haya visitado. Nos ha parecido interesante ya que queríamos tener a alguien que adore viajar y hacer turismo, sin importar el lugar. 
