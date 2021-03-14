@@ -58,6 +58,8 @@ Ahora vamos a ver la experiencia de estos dos usuarios. En ambas vemos comportam
 Veamos ambas experiencias: 
 ![journey_matias](P1/matiasgomez_userjourney.png)
 
+![journey_juan](P1/juan_userjourney.png)
+
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
