@@ -32,8 +32,6 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
-
 La tabla que hemos realizado para realizar el análisis competitivo es la siguiente: 
 ![tablaCompt](P1/tablaCompetitividad.png)
 
@@ -58,8 +56,6 @@ Su ficha es la siguiente:
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 Ahora vamos a ver la experiencia de estos dos usuarios. En ambas vemos comportamientos habituales de las personas a la hora de planificar un viaje para hacer turismo: en el caso de Matias, este no sabe a donde puede ir de todos lo sitios posibles y en el caso de Juan [COMPLETAR]. 
 
