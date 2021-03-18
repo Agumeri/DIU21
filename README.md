@@ -56,7 +56,7 @@ Su ficha es la siguiente:
 Ahora vamos a ver la experiencia de estos dos usuarios. En ambas vemos comportamientos habituales de las personas a la hora de planificar un viaje para hacer turismo: en el caso de Matias, este no sabe a donde puede ir de todos lo sitios posibles y en el caso de Juan [COMPLETAR]. 
 
 Veamos ambas experiencias: 
-![journey_matias](P1/matiasgomez_userjourney.png)
+![journey_matias](P1/matiasgomez_userjorney.png)
 
 ![journey_juan](P1/juan_userjourney.png)
 
