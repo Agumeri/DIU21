@@ -47,7 +47,7 @@ Su ficha es la siguiente:
 La segunda persona es Juan, un hombre jubilado que ama la naturaleza y nunca ha salido de su pueblo. Hemos escogido a esta persona para estudiar la interacción que tendría un hombre mayor que no entiende apenas nada de nuevas tecnologías y que nunca ha viajado. 
 
 Su ficha es la siguiente:
-![Juan](P1/juan.png)
+![Juan](P1/Juan.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
