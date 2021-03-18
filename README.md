@@ -58,7 +58,7 @@ Ahora vamos a ver la experiencia de estos dos usuarios. En ambas vemos comportam
 Veamos ambas experiencias: 
 ![journey_matias](P1/matiasgomez_userjorney.png)
 
-![journey_juan](P1/juan_userjourney.png)
+![journey_juan](P1/JuanUserJourneyMap.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
