@@ -53,7 +53,7 @@ Su ficha es la siguiente:
 ----
 
 
-Ahora vamos a ver la experiencia de estos dos usuarios. En ambas vemos comportamientos habituales de las personas a la hora de planificar un viaje para hacer turismo: en el caso de Matias, este no sabe a donde puede ir de todos lo sitios posibles y en el caso de Juan [COMPLETAR]. 
+Ahora vamos a ver la experiencia de estos dos usuarios. En ambas vemos comportamientos habituales de las personas a la hora de planificar un viaje haciendo uso de la página web Inspirock para hacer turismo. Veamos ambas experiencias:  
 
 Veamos ambas experiencias: 
 ![journey_matias](P1/matiasgomez_userjorney.png)
@@ -62,11 +62,6 @@ Veamos ambas experiencias:
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 - Enlace al documento: [**usability_review**](https://github.com/Agumeri/DIU21/blob/master/P1/Usability-review-pdf.pdf)
 - Valoración final: 75
