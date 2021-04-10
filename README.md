@@ -74,14 +74,14 @@ Veamos ambas experiencias:
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+- Feedback Capture Grid:
+![feedbackGrid](P2/feedback_grid.png)
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+- Empaty maps
+![matiasEmpatia](P2/mapa_empatía_MatiasGomez.png)
+![juanEmpatia](P2/Mapa_Empatia_Juan.png)
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+![pov](P2/POV.png)
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
