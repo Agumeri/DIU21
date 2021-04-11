@@ -93,19 +93,15 @@ Nosotros hemos planteado una página web multiplataforma con varios idiomas disp
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
-
+- User/Task matrix
+![usertask_matrix](P2/usertask_matrix.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+- Sitemap y Labelling
+![sitemap](P2/Sitemap.png)
+![labelling](P2/labelling.png)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
