@@ -100,8 +100,8 @@ Nosotros hemos planteado una página web multiplataforma con varios idiomas disp
 ----
 
 - Sitemap y Labelling
-![sitemap](P2/Sitemap.png)
-![labelling](P2/labelling.png)
+![sitemap](P2/sitemap.png)
+![labelling](P2/Labelling.png)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
