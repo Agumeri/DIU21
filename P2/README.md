@@ -60,11 +60,11 @@
 
 * Sitemap 
 
-![sitemap](Sitemap.png)
+![sitemap](sitemap.png)
 
 * Labelling
 
-![labelling](labelling.png)
+![labelling](Labelling.png)
 
 
 ### Prototipo Lo-FI Wireframe 
