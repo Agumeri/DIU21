@@ -59,11 +59,33 @@
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
-* Labelling 
+
+![sitemap](Sitemap.png)
+
+* Labelling
+
+![labelling](labelling.png)
 
 
 ### Prototipo Lo-FI Wireframe 
 
+Los prototipos se nos exigen que sean de la app de nuestra propuesta, ya que es lo que se nos pide, a pesar de que nuestra propuesta se esté basando en páginas webs y no en aplicaciones móviles (APPs). Hemos realizado los bocetos de las páginas que consideramos que serán visitadas frecuentemente por los usuarios:
+
+* Pagina Inicio
+
+![pInicio](layout-PaginaInicio.png)
+
+
+* Rutas
+
+![rutas](layout-Rutas.png)
+
+
+* Perfil
+
+![perfil](layout-Perfil.png)
+
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
+Como conclusion de esta práctica, creemos que es muy útil a la hora de inicializar lo que sería el desarrollo inicial de nuestra propuesta. Lo que no nos ha gustado tanto, es que ha sido bastante trabajosa en todos sus apartados, consumiendonos bastante tiempo, sobre todo en la parte final de los bocetos Lo-Fi, ya que al principio creíamos que estos se tenían que hacer de la versión web de nuestro proyecto y solamente una página (la página principal) y resultaba que teníamos que realizarla de la versión de la APP, y además hace más de una, por lo cual esta última parte es la que más tiempo nos ha consumido, y pensamos que no tendría que ser así. Otro problema ha sido el del Sitemap, que sinceramente creemos que es un paso facil de realizar después de todo, pero debido a los ejemplos que se nos proporcionan, nos ha costado bastante entender como se realizaba esta parte, aunque finalmente lo conseguimos.
