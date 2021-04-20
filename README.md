@@ -105,8 +105,19 @@ Nosotros hemos planteado una página web multiplataforma con varios idiomas disp
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+* Pagina Inicio
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![pInicio](P2/layout-PaginaInicio.png)
+
+
+* Rutas
+
+![rutas](P2/layout-Rutas.png)
+
+
+* Perfil
+
+![perfil](P2/layout-Perfil.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
