@@ -45,7 +45,7 @@
   
 * User Task Matrix 
 
-![usertaskmatrix](usertask_matrix.png)
+![usertaskmatrix](userTaskMatrix.png)
 
   A continuación, describiremos brevemente los distintos grupos de usuarios que hemos planteado:
   
