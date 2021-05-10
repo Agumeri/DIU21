@@ -64,7 +64,29 @@
 
 * Labelling
 
-![labelling](Labelling.png)
+| Término | Significado |
+| ------------- | ------------- |
+| Rutas | Se muestran distintos apartados: rutas recomendadas, de otros usuarios y virtuales. Además, hay un botón que te redirige a un formulario para generar tu ruta propia |
+| Guía de uso | Se explica cómo usar la web mediante videos explicativos |
+| Preguntas frecuentes | Sección con una lista de preguntas que más hacen los usuarios |
+| Sobre nosotros | Sección con información general de la página web, el objetivo de la misma, información de los creadores y links de las redes sociales de los creadores y la web en si |
+| Icono con bandera | Indica el idioma de la app. Al pulsarlo se podrá seleccionar varios idiomas (estos mostrados como banderas también) |
+| Iniciar sesión | Inicio de sesión para usuarios registrados |
+| Registrarse | Registro para un nuevo usuario |
+| Icono de usuario | Permite acceder a la información del usuario (una vez haya iniciado sesión) |
+| Buscador | Introduces el destino o nombre de la ruta (si tiene) y te muestra varias opciones de rutas distintas |
+| Valoraciones de rutas | Muestra la valoración de varias rutas realizadas por usuarios.  |
+| Rutas realizadas | Muestra las rutas realizadas por el usuario |
+| Rutas valoradas | Muestra las valoraciones de las rutas realizadas por el usuario |
+| Rutas virtuales | Muestra las rutas proporcionadas por la web que pueden realizarse en 3D desde el navegador |
+| Genera tu propia ruta | Redirecciona al usuario a un formulario (el mismo de la página inicial) para rellenarlo y generar una ruta óptima a las preferencias de este |
+| Configuración | Permite al usuario cambiar el diseño de la web para personas con discapacidad visual, explicaciones auditivas etc |
+| Logo Web | Aparece en cada una de las páginas. Si se selecciona, te redirige a la página principal |
+| Promoción visitas virtuales | Apartado en el que se hace "publicidad" acerca de una de las características más llamativas de la web, las visitas guiadas en 3D (visitas virtuales), las cuales son visitas en 3D desde el navegador de diferentes rutas disponibles |
+| Rutas Free-COVID más realizadas | Apartado en el que se muestran las rutas con mejor valoración de entre todas las que hay, destacando la seguridad de que estos lugares están desinfectados y son seguros |
+| Valoraciones de rutas | Apartado en el que se muestran valoraciones sobre varias rutas, ya hayan sido estas desarrolladas por la web o bien desarrolladas por un usuario |
+| Telefono contacto | Telefono asociado a la empresa. Usarlo para realizar cualquier pregunta sobre la web |
+| Eliminar cuenta | Elimina la cuenta asociada a un usuario y correo electrónico. Solo visible desde el perfil de dicho usuario |
 
 
 ### Prototipo Lo-FI Wireframe 
