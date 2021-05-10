@@ -117,7 +117,8 @@ Nosotros hemos planteado una página web multiplataforma con varios idiomas disp
 | Icono de usuario | Permite acceder a la información del usuario (una vez haya iniciado sesión) |
 | Buscador | Introduces el destino o nombre de la ruta (si tiene) y te muestra varias opciones de rutas distintas |
 | Valoraciones de rutas | Muestra la valoración de varias rutas realizadas por usuarios.  |
-| Rutas realizadas | Muestra las rutas realizadas por el usuario |
+| Mis rutas | Muestra las rutas realizadas por el usuario |
+| Rutas favoritas | Muestra un listado de las rutas favoritas del usuario |
 | Rutas valoradas | Muestra las valoraciones de las rutas realizadas por el usuario |
 | Rutas virtuales | Muestra las rutas proporcionadas por la web que pueden realizarse en 3D desde el navegador |
 | Genera tu propia ruta | Redirecciona al usuario a un formulario (el mismo de la página inicial) para rellenarlo y generar una ruta óptima a las preferencias de este |
@@ -144,7 +145,7 @@ Nosotros hemos planteado una página web multiplataforma con varios idiomas disp
 
 * Perfil
 
-![perfil](P2/layout-Perfil.png)
+![perfil](P2/layout-perfiil.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
