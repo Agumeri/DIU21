@@ -11,8 +11,32 @@ Los iconos que usaremos serán los de Ionic, ya que son de código abierto y tie
 
 ## Landing Page
 
+![landingPage](landing-page.png)
 
 ## Mockup: LAYOUT HI-FI
+
+* Página inicio
+
+
+* Rutas
+
+
+* Guía de uso
+
+
+* Iniciar sesión
+
+![iniciarsesion](iniciar_sesion.png)
+
+* Registrarse
+
+![registro](registrarse.png)
+
+* Perfil
+
+
+* Mis rutas
+
 
 
 ## Documentación: Publicación del Case Study
