@@ -76,6 +76,7 @@
 | Icono de usuario | Permite acceder a la información del usuario (una vez haya iniciado sesión) |
 | Buscador | Introduces el destino o nombre de la ruta (si tiene) y te muestra varias opciones de rutas distintas |
 | Valoraciones de rutas | Muestra la valoración de varias rutas realizadas por usuarios.  |
+| Rutas favoritas | Muestra un listado de las rutas favoritas del usuario |
 | Rutas realizadas | Muestra las rutas realizadas por el usuario |
 | Rutas valoradas | Muestra las valoraciones de las rutas realizadas por el usuario |
 | Rutas virtuales | Muestra las rutas proporcionadas por la web que pueden realizarse en 3D desde el navegador |
@@ -105,7 +106,7 @@ Los prototipos se nos exigen que sean de la app de nuestra propuesta, ya que es 
 
 * Perfil
 
-![perfil](layout-Perfil.png)
+![perfil](layout-perfiil.png)
 
 
 ### Conclusiones  
