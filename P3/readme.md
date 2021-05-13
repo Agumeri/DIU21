@@ -34,8 +34,16 @@ Los iconos que usaremos serán los de Ionic, ya que son de código abierto y tie
 
 * Perfil
 
+![perfil](perfil.png)
+
+* Configuración
+
+
 
 * Mis rutas
+
+![misrutas](misrutas.png)
+
 
 
 
