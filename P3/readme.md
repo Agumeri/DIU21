@@ -17,6 +17,7 @@ Los iconos que usaremos serán los de Ionic, ya que son de código abierto y tie
 
 * Página inicio
 
+![Página inicio](pagInicio.png)
 
 * Rutas
 
