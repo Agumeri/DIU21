@@ -144,7 +144,7 @@ Nosotros hemos planteado una página web multiplataforma con varios idiomas disp
 
 * Perfil
 
-![perfil](P2/layout-Perfil.png)
+![perfil](P2/layout-perfiil.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
