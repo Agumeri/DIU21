@@ -179,9 +179,6 @@ La landing page planteada es la siguiente:
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
 Tras mirar varias herramientas de diseño, hemos decidido hacer uso de Adobe Xd. En cuanto a Guidelines, hemos consultado varias. Las que más nos han llamado la atención son aquellas proporcionadas por Google (principalmente en cuanto a colores y tipografía). Para los iconos, hemos decidido usar aquellos más básicos y limpios, que tengan un estilo minimalista. A ser posible, incluiremos aquellos proporcionados por Ionic, al ser muy sencillos y claros.
 
 En cuanto a los patrones, debemos plantear previamente que tareas se van a realizar en nuestra web:
