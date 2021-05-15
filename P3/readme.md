@@ -13,6 +13,27 @@ Los iconos que usaremos serán los de Ionic, ya que son de código abierto y tie
 
 ![landingPage](landing-page.png)
 
+
+## Guidelines y patrones
+
+Tras mirar varias herramientas de diseño, hemos decidido hacer uso de Adobe Xd. En cuanto a Guidelines, hemos consultado varias. Las que más nos han llamado la atención son aquellas proporcionadas por Google (principalmente en cuanto a colores y tipografía). Para los iconos, hemos decidido usar aquellos más básicos y limpios, que tengan un estilo minimalista. A ser posible, incluiremos aquellos proporcionados por Ionic, al ser muy sencillos y claros.
+
+En cuanto a los patrones, debemos plantear previamente que tareas se van a realizar en nuestra web:
+* Principalmente, queremos mostrar información al usuario, normalmente rutas, por lo que deberemos mostrar todos estos elementos de una manera ordenada y, sobre todo clara, para que así el usuario pueda procesar toda la información que se muestre por pantalla.
+* Facilitar la visualización de la información. Si por ejemplo el usuario fuese daltónico, puede habilitar una opción que estaría disponible en la web para cambiar el modo de visionado de la página, para que se adapte según el usuario. Se incluirían más modos dependiendo de las dificultades de visualización.
+* Al haber una opción de generar ruta introduciendo datos y seleccionando varios tipos de preferencias, deberemos implementar un formulario.
+* En cuanto al uso de las rutas virtuales o rutas 3D, sería deseable que hubiese una especie de ayuda implementada en la misma, por lo que sería útil tener un asistente para ayudar al usuario a realizar la ruta 3D.
+* Finalmente, también se desea que las rutas mostradas en el apartado Rutas sean las más destacadas, mostrandose estas de manera aleatoria cada vez que se accede a la web, pero que muestre de las rutas más destacadas de las disponibles en la web. Es por ello, que deberemos implementar una especie de gestor de información para mostrar todos estos elementos destacados
+
+Tras este análisis, hemos decidido hacer uso de los siguientes patrones:
+1. Patrón lista
+2. Patrón destacado
+3. Patrón flujo de información
+4. Patrón asistente
+5. Patrón preferencias
+6. Patrón búsqueda
+7. Patrón búsqueda avanzada
+
 ## Mockup: LAYOUT HI-FI
 
 * Página inicio
@@ -39,12 +60,7 @@ Los iconos que usaremos serán los de Ionic, ya que son de código abierto y tie
 
 * Configuración
 
-
-
-* Mis rutas
-
-![misrutas](misrutas.png)
-
+![config](configuracion.png)
 
 
 
