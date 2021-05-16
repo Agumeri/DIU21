@@ -76,6 +76,7 @@ Hemos hecho uso de Adobe Xd, la cual presenta muchas herramientas para realizar 
 
 ## Documentación: Publicación del Case Study
 
+Hemos hecho el siguiente vídeo para documentar brevemente nuestro caso de estudio: https://drive.google.com/file/d/1zUvTLrDt_FVAQwcZ0LrVU7YaDCqPyMrg/view?usp=sharing
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+Sobre la realización de la práctica, podemos comentar la dificultad a la hora de trabajar con herramientas nuevas, como es el caso de Adobe XD. Aprender a utilizarlo nos ha llevado más tiempo del que nos hubiera gustado.
  
