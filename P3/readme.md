@@ -44,6 +44,10 @@ Tras este análisis, hemos decidido hacer uso de los siguientes patrones:
 
 ![Rutas](Rutas.png)
 
+* Ejemplo de ruta virtual "Ruta por París"
+
+![rvirtual](rutavirtual.png)
+
 * Guía de uso
 
 ![Guia de uso](GuiaDeUso.png)
