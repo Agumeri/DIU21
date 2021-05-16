@@ -68,7 +68,11 @@ Tras este análisis, hemos decidido hacer uso de los siguientes patrones:
 
 ![config](configuracion.png)
 
+Se puede ver una pequeña "demo" de como se navegaría a través de la web a través del siguiente enlace: https://drive.google.com/file/d/1p9VTYE7XhLLuyN0U_kI8v0nqUGqz8BTJ/view?usp=sharing
 
+Como conclusión de esta parte, queremos recalcar la herramienta utilizada y los problemas que hemos tendio con ella.
+
+Hemos hecho uso de Adobe Xd, la cual presenta muchas herramientas para realizar diseños de aplicaciones y webs. Sin embargo, no nos parece nada fácil de utilizar al principio. Nos ha costado bastante acostumbrarnos a ella, ya que la manera de organizar las cosas a pesar de dar la impresión de ser sencilla, es bastante tosca, ocasionandonos problemas de gestión de los elementos que poníamos. Además, que sea poco intuitiva no nos ha ayudado mucho. Aun así, tras mirar varias alternativas (principalmente Bootstrap) nos decantamos por usar Adobe, ya que aunque tuviesemos problemas, conforme más la usábamos menos problemas teníamos. Por eso concluimos de que podrían indicarse otras alternativas que se sepan que son más intuitivas y fáciles de usar a Adobe, pero que no nos consuman más o el mismo tiempo, ya que hemos perdido más tiempo aprendiendo a usar la aplicación para hacer el Landing Page y el Layout HI-FI, que desarrollandolos.
 
 ## Documentación: Publicación del Case Study
 
