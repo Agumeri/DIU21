@@ -46,6 +46,7 @@ Tras este análisis, hemos decidido hacer uso de los siguientes patrones:
 
 * Guía de uso
 
+![Guia de uso](GuiaUso.png)
 
 * Iniciar sesión
 
