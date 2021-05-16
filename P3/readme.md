@@ -42,6 +42,7 @@ Tras este análisis, hemos decidido hacer uso de los siguientes patrones:
 
 * Rutas
 
+![Rutas](Rutas.png)
 
 * Guía de uso
 
