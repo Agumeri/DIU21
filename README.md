@@ -200,7 +200,9 @@ Tras este análisis, hemos decidido hacer uso de los siguientes patrones:
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Para ver los diferentes Layout HI-FI que hemos desarrollado, acceder al siguiente enlace: https://github.com/Agumeri/DIU21/tree/master/P3#mockup-layout-hi-fi
+
+Además se ha realizado una demo de como se navegaría por la web: https://drive.google.com/file/d/1p9VTYE7XhLLuyN0U_kI8v0nqUGqz8BTJ/view?usp=sharing
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
