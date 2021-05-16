@@ -205,12 +205,10 @@ Para ver los diferentes Layout HI-FI que hemos desarrollado, acceder al siguient
 Además se ha realizado una demo de como se navegaría por la web: https://drive.google.com/file/d/1p9VTYE7XhLLuyN0U_kI8v0nqUGqz8BTJ/view?usp=sharing
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
+![Método UX](img/caseStudy.png) 3.e Case Study
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Vídeo de presentación de nuestro case study: https://drive.google.com/file/d/1zUvTLrDt_FVAQwcZ0LrVU7YaDCqPyMrg/view?usp=sharing
 
 
 ## Paso 4. Evaluación 
