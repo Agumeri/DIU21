@@ -4,12 +4,12 @@
 
 ### Caso A: TravelSafe
 
-Descripcion del caso A
+Con Travel Safe, podrás obtener el planning para un viaje turístico introduciendo el lugar de partida y el de destino (o eligiendo uno ya dado). La web te asignará una ruta predeterminada escogiendo los lugares de más interés (según las preferencias escogidas y las restricciones covid que haya en el momento) para visitar, y dando la opción al usuario de añadir y modificar el planning proporcionado como desee, cambiando el tiempo de visita, añadiendo/quitando los lugares que visitaría, etc. Todos los espacios a visitar tendrán información sobre las cláusulas covid establecidas y las medidas aplicadas. Además, se proporciona al usuario con una demo de lo que sería la visita a los lugares seleccionados virtualmente, sin tener que salir de casa.
 
 
 ### Caso B: Turismo Galera
 
-Descripcion del caso B
+Aplicación móvil orientada a usuarios extranjeros (sobre todo personas británicas jubiladas) que permite conocer más acerca de la historia, cultura y paisajes del pueblo para decidir si es el lugar idóneo para vivir o visitar.
 
 ## 2. User Testing
 
@@ -21,16 +21,21 @@ Los usuarios 3 y 4 no han tenido ninguna dificultad al realizar los test, ya que
 
 ### Caso A: TravelSafe
 
-Poner foto del resultado del SUS, y un enlace al informe de usabilidad con todo
+![sus_a](SUS_A.png)
 
 ### Caso B: Turismo Galera
 
-Poner foto del resultado del SUS, y un enlace al informe de usabilidad con todo
+![sus_b](SUS_B.png)
 
+Se puede obtener más información de los test accediendo a los **informes de usabilidad** del [**caso A**](usabilidad_a.pdf) y [**caso_B**](usabilidad_b.pdf) 
 
 ## 4. Comparación test A/B
 
+Para realizar la comparación de ambos test, haremos uso de la nota obtenida por parte de los usuairos de los cuestionarios SUS. Esta nota se refleja en la escala SUS mostrada en la siguiente imagen.
+
 ![es](escala_SUS.png)
+
+En general, ambas propuestas han superado el test sin dificultad. En la app Turismo Galera hay una nota que es baja si la comparamos con el resto, pero es entendible, ya que la persona que ha realizado el test no tiene mucha experiencia usando apps. Esto no supone una nota negativa en sí conforme a al test de la app, pero si lo comparamos con el test realizado a TravelSafe, podemos sacar como conclusión que frente a usuarios menos experimentados, Turismo Galera presenta mayor dificultad a la hora de utilizar la app frente a TravelSafe. Aun así, todos los test son positivos y nos sirven para darnos cuenta de que la web/app cumpliría con un estandar bastante alto siendo excelentes para la gran mayoría, siendo recomendada por estos usuarios y reutilizada por los mismos. 
 
 ## 5. Conclusiones
 
