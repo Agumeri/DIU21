@@ -217,43 +217,30 @@ Vídeo de presentación de nuestro case study: https://drive.google.com/file/d/1
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+A nuestro grupo se le ha asignado la propuesta del grupo DIU2.JTS, **Turismo Galera**, una aplicación móvil orientada a usuarios extranjeros (sobre todo personas británicas jubiladas) que permite conocer más acerca de la historia, cultura y paisajes del pueblo para decidir si es el lugar idóneo para vivir o visitar. 
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+Los usuarios que van a realizar el test son personas reales. El hecho de que sean personas reales favorece y enriquece el resultado de los test, ya que nos muestra con mucha más precisión el comportamiento que mostrarán determinados grupos de usuarios al usar el sitio web/aplicación móvil. 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+![utt](P4/user_testing.png)
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
+![suss_b](P4/SUS_B.png)
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+Podemos sacar de conclusión que la aplicación móvil Turismo Galera supera todos los test con notas bastante altas, pero frente a un usuario con menos experiencia en el uso de Internet y las webs y aplicaciones en general, obtiene una peor nota. Pensamos que esto no es de por si un suspenso, si no que refleja que la app no está pensada para este tipo de personas, lo cual supondría la posible pérdida de los usuarios de este tipo. 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+El informe de usabilidad del caso B, **Turismo Galera**, es el siguiente: https://github.com/Agumeri/DIU21/blob/master/P4/usabilidad_b.pdf
 
-
-
->>> Valoración personal 
-
+Tras realizar este informe de usabilidad, pensamos que la aplicación Turismo Galera está muy bien diseñada, tanto en el diseño, que es muy intuitivo y ayuda bastante a orientarnos en la apps en si, como en el funcionamiento del mismo, siendo claro y conciso, mostrando lo necesario en todo momento. Sin embargo, algo que no vemos tan correcto es el público al que se dirige, siendo un grupo muy específico, lo que ya limitaría el público que haría uso de la app. Además, pensamos que la app tiene mucho potencial, y no se debería centrar sobre todo, tal y como indica, en personas británicas jubiladas, sino en toda clase de público posible. Esto junto a que la demo de la app se presenta como turismo por un lugar específico de Granada cierra bastantes fronteras conforme al uso de la misma. Aun así, esto no significa que la app sea "mala". En cuanto a diseño y organización nos parece bastante mejor que la que hemos planteado nosotros, pero el público y el enfoque al área de turismo que presenta la app no nos parece el adecuado. 
 
 ## Paso 5. Evaluación de Accesibilidad  
 
