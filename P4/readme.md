@@ -1,29 +1,40 @@
 # DIU - Practica 4, entregables
 
-Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
+## Descripción de los casos A y B
+
+### Caso A: TravelSafe
+
+Descripcion del caso A
 
 
-## Caso 1
+### Caso B: Turismo Galera
 
-Descripcion y hoja de valoración.    
-
-
-## Caso 2
-
-Descripcion y hoja de valoración.  
-
-
-## Caso 3
-
-Descripcion y hoja de valoración.   
+Descripcion del caso B
 
 ## User Testing
 
-	Describe la experiencia 1
+![usert](user_testing.png)
 
-	Describe la experiencia 2
+Los usuarios 3 y 4 no han tenido ninguna dificultad al realizar los test, ya que al ser más jóvenes, estarán un poco más familiarizados con las apps/webs y el uso de Internet. Sin embargo, nuestros usuarios de mayor edad tienen la barrera de tener poca experienza usando Internet y apps/webs, sumandole a esto que alguna puede tener como idioma predeterminado el inglés, suponiendo una barrera bastante grande a la hora de usar las aplicaciones presentadas.
 
-	Describe la experiencia 3
+## Cuestionario SUS
 
+### Caso A: TravelSafe
+
+Poner foto del resultado del SUS, y un enlace al informe de usabilidad con todo
+
+### Caso B: Turismo Galera
+
+Poner foto del resultado del SUS, y un enlace al informe de usabilidad con todo
+
+
+## Comparación test A/B
+
+![es](escala_SUS.png)
 
 ## Conclusiones
+
+
+
+
+
