@@ -242,37 +242,12 @@ El informe de usabilidad del caso B, **Turismo Galera**, es el siguiente: https:
 
 Tras realizar este informe de usabilidad, pensamos que la aplicación Turismo Galera está muy bien diseñada, tanto en el diseño, que es muy intuitivo y ayuda bastante a orientarnos en la apps en si, como en el funcionamiento del mismo, siendo claro y conciso, mostrando lo necesario en todo momento. Sin embargo, algo que no vemos tan correcto es el público al que se dirige, siendo un grupo muy específico, lo que ya limitaría el público que haría uso de la app. Además, pensamos que la app tiene mucho potencial, y no se debería centrar sobre todo, tal y como indica, en personas británicas jubiladas, sino en toda clase de público posible. Esto junto a que la demo de la app se presenta como turismo por un lugar específico de Granada cierra bastantes fronteras conforme al uso de la misma. Aun así, esto no significa que la app sea "mala". En cuanto a diseño y organización nos parece bastante mejor que la que hemos planteado nosotros, pero el público y el enfoque al área de turismo que presenta la app no nos parece el adecuado. 
 
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
-
 ## Conclusión final / Valoración de las prácticas
 
+Como conclusión final del desarrollo que hemos realizado de la práctica planteada para la asignatura de Diseño de Interfaces de Usuario, podemos decir que el proceso previo a lo que sería el desarrollo del código de un proyecto es bastante más interesante de lo que pensábamos en un principio, ya que al tener en cuenta todos los aspectos vistos durante estas 4 prácticas, podemos luego hacernos una mejor idea de como desarrollar la interfaz de la aplicación teniendo en cuenta un estudio de mercado, simulación del tipo de usuarios que usarían la aplicación, distintos enfoques visuales posibles, etc. Todo esto lo vemos como algo positivo, y tenemos pensado usarlo de ahora en adelante en todos los proyectos que hagamos en un futuro.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Sin embargo, también hay partes de las prácticas que tenemos que criticar. Lo primero sería acerca del readme principal, el cual no hemos tenido claro lo que teníamos que poner en él hasta que fue demasiado tarde, perjudicandonos un poco. Otra cosa negativa sería con respecto a la práctica 3 en sí. Al haber planteado una web, nos ha resultado bastante más difícil hacer el diseño al tener que tomar en cuenta muchos aspectos en cada una de las páginas (se puede apreciar que nos faltan detalles que mencionamos en descripciones anteriores). Esto, junto a que la herramienta utilizada, Adobe Xd, con una curva de aprendizaje alta, nos han consumido mucho tiempo, y el resultado que hemos obtenido en esta práctica pensamos que no ha sido el que nosotros habíamos ideado en un principio.
 
-
-
-
-
-
-
-
-
-
-
+Aun así, hemos valorado positivamente estas prácticas, y en general nos han parecido muy interesantes e interactivas, enseñandonos aspectos del diseño que no se nos habían planteado hasta ahora en lo que llevamos de carrera. 
 
 
